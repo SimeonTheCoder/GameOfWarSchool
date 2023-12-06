@@ -1,0 +1,14 @@
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.exe
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.deps.json
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.runtimeconfig.json
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.dll
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\bin\Debug\net6.0\GameOfWar.pdb
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.AssemblyInfoInputs.cache
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.AssemblyInfo.cs
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.csproj.CoreCompileInputs.cache
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.dll
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\refint\GameOfWar.dll
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.pdb
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\GameOfWar.genruntimeconfig.cache
+D:\Coding\C#\SCHOOL_CODING\GameOfWar\GameOfWar\GameOfWar\obj\Debug\net6.0\ref\GameOfWar.dll
