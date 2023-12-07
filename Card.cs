@@ -13,6 +13,11 @@ namespace GameOfWar
 
         public override string ToString()
         {
+            if((int)Enum.Parse(typeof(CardFace), this.Face.ToString()) > 10)
+            {
+                return $"{this.Face}{(char)this.Suite}";
+            }
+
             return $"{(int) Enum.Parse(typeof(CardFace), this.Face.ToString())}{(char) this.Suite}";
         }
     }
